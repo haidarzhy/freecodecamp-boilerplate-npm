@@ -3,6 +3,7 @@
 	"author": "Arkadii Haidarzhy",
 	"description": "A project for freeCodeCamp backend course",
 	"keywords": [ "freecodecamp", "express", "tutorial" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
